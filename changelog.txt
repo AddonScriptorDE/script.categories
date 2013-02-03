@@ -1,0 +1,11 @@
+1.0.0
+- First Try
+1.0.1
+- Fixed bug while deleting from categories
+1.0.2
+- Fixed bug while handling invalid addon ids
+1.0.3
+- Changed addon id handling
+- Fixed encoding bug
+1.0.4
+- Fixed addon handling for Eden

@@ -1,0 +1,12 @@
+<settings>
+   <setting id="cat0" type="text" label="30100" default="" />
+   <setting id="cat1" type="text" label="30101" default="" />
+   <setting id="cat2" type="text" label="30102" default="" />
+   <setting id="cat3" type="text" label="30103" default="" />
+   <setting id="cat4" type="text" label="30104" default="" />
+   <setting id="cat5" type="text" label="30105" default="" />
+   <setting id="cat6" type="text" label="30106" default="" />
+   <setting id="cat7" type="text" label="30107" default="" />
+   <setting id="cat8" type="text" label="30108" default="" />
+   <setting id="cat9" type="text" label="30109" default="" />
+</settings>
