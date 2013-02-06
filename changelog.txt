@@ -9,3 +9,12 @@
 - Fixed encoding bug
 1.0.4
 - Fixed addon handling for Eden
+1.0.5
+- Small bugfix
+1.0.6
+- Fixed "last category missing" bug
+- Divided category-settings into video/audio/image
+- Added main menu with content selection
+- Added context menu for removing whole category
+1.0.7
+- Added context menu for renaming categories
